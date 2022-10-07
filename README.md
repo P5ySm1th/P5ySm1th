@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://github.com/P5ySm1th/P5ySm1th/blob/main/CODING.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm P5ySm1th</h1>
 <h3 align="center">Currently a sophomore, need to try harder at Forensic, Web :(</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://github.com/P5ySm1th/P5ySm1th/blob/main/PSYDUCK.gif">
 
 <img align="right" alt="Coding" width="800" src="https://i.pinimg.com/originals/f4/59/98/f459980b6a50cbfb897a7299ca86dab0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p5ysm1th&label=Profile%20views&color=0e75b6&style=flat" alt="p5ysm1th" /> </p>
