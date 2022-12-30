@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/P5ySm1th/P5ySm1th/blob/main/CODING.gif)](https://rishavchanda.io)
-<hr />
+
 <div>
   <h1 align="center">Hi 👋, I'm P5yDuck</h1>
 
@@ -142,20 +142,29 @@
 
   ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) [![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](mailto:nguyendang.job@gmail.com) ![iamge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 </div>
-<hr />
 
-<p>
-  &nbsp;<img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=p5ysm1th&show_icons=true&locale=en"
-    alt="P5ySm1th"
-  />
-</p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=p5ysm1th&"
-    alt="P5ySm1th"
-  />
-</p>
+<hr>  
+    <h2 align=center>GITHUB'S STAT</h2>
+    <div>
+        <table>
+            <tr>
+            <td>
+                <img
+                src="https://github-readme-stats.vercel.app/api?username=p5ysm1th&show_icons=true&locale=en"
+                alt="P5ySm1th"
+                />
+            </td>
+            <td>
+                <img
+                src="https://github-readme-streak-stats.herokuapp.com/?user=p5ysm1th&"
+                alt="P5ySm1th"
+                />
+            </td>
+            </tr>
+        </table>
+    </div>
+</hr>
+
+
+
