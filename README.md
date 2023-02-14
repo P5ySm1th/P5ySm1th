@@ -3,7 +3,7 @@
 <div>
   <h1 align="center">Hi 👋, I'm P5yDuck</h1>
 
-  <h2 align="center">Currently a sophomore, try harder ??? :(</h2>
+  <h2 align="center">Currently a sophomore!!!</h2>
   <img
     align="right"
     alt="Coding"
